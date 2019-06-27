@@ -1,3 +1,4 @@
  this is file three
 
  checking git command
+filethree
